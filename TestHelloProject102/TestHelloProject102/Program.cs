@@ -11,6 +11,7 @@ namespace TestHelloProject102
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome");
+            Console.WriteLine("Changes coming from second developer");
             Console.ReadLine();
         }
     }
