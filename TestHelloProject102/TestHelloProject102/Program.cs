@@ -14,10 +14,8 @@ namespace TestHelloProject102
             Console.WriteLine("Changes coming from second developer");
 
             //className variable=new className();
-            //FibonocciSeries fibonocci = new FibonocciSeries();
-            //fibonocci.FindFibonocciSeries();
-
-            ReverseNumber.FindReverseNumber();
+            FibonocciSeries fibonocci = new FibonocciSeries();
+            fibonocci.FindFibonocciSeries();
             Console.ReadLine();
         }
     }
